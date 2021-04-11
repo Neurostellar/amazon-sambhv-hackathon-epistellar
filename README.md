@@ -3,7 +3,9 @@ This contains all the files ( Front end - React, Backend - AWS )  relating to Am
 
 
 
-## Front end is hosted by React.
+## Front end
+
+Front end is hosted by React.
 
 React has components - App, Login, Home.
 
@@ -11,7 +13,7 @@ Login uses Amplify to authenticate users.
 App gets EEG file as input, visualises it and sends it to AWS for processing.
 
 
-## Back end code contains lambda code
+## Back end
 
 
 Back end code contains AWS Lambda scripts.
