@@ -1,0 +1,50 @@
+{
+  "name": "datetagging",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.10.17",
+    "aws-amplify": "^0.3.3",
+    "axois": "0.0.1-security",
+    "bootstrap": "^4.5.0",
+    "canvasjs": "^1.8.3",
+    "edfdecoder": "^0.1.1",
+    "fs": "0.0.1-security",
+    "localstorage-ttl": "^1.0.2",
+    "lru-cache": "^6.0.0",
+    "moment": "^2.26.0",
+    "react": "0.0.0-7f28234f8",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "0.0.0-7f28234f8",
+    "react-file-picker": "0.0.6",
+    "react-file-picker-preview": "0.0.9",
+    "react-file-reader": "^1.1.4",
+    "react-loader": "^2.4.7",
+    "react-loading": "^2.0.3",
+    "react-router-bootstrap": "^0.24.4",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^4.0.3",
+    "semantic-ui-react": "^0.88.2",
+    "sockette": "^2.0.6",
+    "spectrum-plot2": "^0.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

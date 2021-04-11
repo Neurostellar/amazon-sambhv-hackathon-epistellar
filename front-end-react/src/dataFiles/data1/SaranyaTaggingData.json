@@ -1,0 +1,5162 @@
+{
+    "0": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026094.png",
+        "OCRText": "model"
+    },
+    "1": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028348.png",
+        "OCRText": "write"
+    },
+    "2": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010154.png",
+        "OCRText": "force"
+    },
+    "3": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023064.png",
+        "OCRText": "Vost"
+    },
+    "4": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016016.png",
+        "OCRText": "onelwit"
+    },
+    "5": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030396.png",
+        "OCRText": "5"
+    },
+    "6": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020682.png",
+        "OCRText": "plate"
+    },
+    "7": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004127.png",
+        "OCRText": "element"
+    },
+    "8": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004043.png",
+        "OCRText": "in"
+    },
+    "9": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006029.png",
+        "OCRText": "not"
+    },
+    "10": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009431.png",
+        "OCRText": "ratio"
+    },
+    "11": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031101.png",
+        "OCRText": "The"
+    },
+    "12": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035447.png",
+        "OCRText": "ied"
+    },
+    "13": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011346.png",
+        "OCRText": "quintals"
+    },
+    "14": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002605.png",
+        "OCRText": "diot-station"
+    },
+    "15": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032171.png",
+        "OCRText": "cream"
+    },
+    "16": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034377.png",
+        "OCRText": "prore"
+    },
+    "17": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000307.png",
+        "OCRText": "humberof"
+    },
+    "18": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004936.png",
+        "OCRText": "plastics"
+    },
+    "19": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021296.png",
+        "OCRText": "releada"
+    },
+    "20": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015887.png",
+        "OCRText": "solite"
+    },
+    "21": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032762.png",
+        "OCRText": "som"
+    },
+    "22": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007168.png",
+        "OCRText": "ol"
+    },
+    "23": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029451.png",
+        "OCRText": "coi"
+    },
+    "24": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007997.png",
+        "OCRText": "is"
+    },
+    "25": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029772.png",
+        "OCRText": "will"
+    },
+    "26": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011365.png",
+        "OCRText": "9."
+    },
+    "27": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011031.png",
+        "OCRText": "is"
+    },
+    "28": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024509.png",
+        "OCRText": "Velocity"
+    },
+    "29": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017472.png",
+        "OCRText": "Acience"
+    },
+    "30": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032132.png",
+        "OCRText": "writs"
+    },
+    "31": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006942.png",
+        "OCRText": "as"
+    },
+    "32": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020500.png",
+        "OCRText": "singar"
+    },
+    "33": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017364.png",
+        "OCRText": "was"
+    },
+    "34": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014943.png",
+        "OCRText": "Infe"
+    },
+    "35": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018143.png",
+        "OCRText": "4"
+    },
+    "36": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003596.png",
+        "OCRText": "desiring"
+    },
+    "37": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022969.png",
+        "OCRText": "heath"
+    },
+    "38": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014156.png",
+        "OCRText": "*"
+    },
+    "39": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026559.png",
+        "OCRText": "weam"
+    },
+    "40": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014774.png",
+        "OCRText": "of"
+    },
+    "41": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016196.png",
+        "OCRText": "It"
+    },
+    "42": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006124.png",
+        "OCRText": "fages"
+    },
+    "43": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011943.png",
+        "OCRText": "loder"
+    },
+    "44": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035836.png",
+        "OCRText": "waters"
+    },
+    "45": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020100.png",
+        "OCRText": "differencise"
+    },
+    "46": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019222.png",
+        "OCRText": "mv"
+    },
+    "47": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012805.png",
+        "OCRText": "(r)"
+    },
+    "48": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010535.png",
+        "OCRText": "probit"
+    },
+    "49": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013187.png",
+        "OCRText": "slide"
+    },
+    "50": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008075.png",
+        "OCRText": "is"
+    },
+    "51": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001257.png",
+        "OCRText": "sociation"
+    },
+    "52": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017370.png",
+        "OCRText": "is"
+    },
+    "53": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015713.png",
+        "OCRText": "iresent"
+    },
+    "54": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034698.png",
+        "OCRText": "thi"
+    },
+    "55": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033370.png",
+        "OCRText": "is"
+    },
+    "56": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023660.png",
+        "OCRText": "the"
+    },
+    "57": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026698.png",
+        "OCRText": "It"
+    },
+    "58": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030102.png",
+        "OCRText": "gases"
+    },
+    "59": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010454.png",
+        "OCRText": "*ppeure"
+    },
+    "60": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008213.png",
+        "OCRText": "Indicates"
+    },
+    "61": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027533.png",
+        "OCRText": "6"
+    },
+    "62": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022640.png",
+        "OCRText": "D-yome"
+    },
+    "63": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032778.png",
+        "OCRText": "not"
+    },
+    "64": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010136.png",
+        "OCRText": "transfer"
+    },
+    "65": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030284.png",
+        "OCRText": "I"
+    },
+    "66": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016259.png",
+        "OCRText": "eff"
+    },
+    "67": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023080.png",
+        "OCRText": "bond"
+    },
+    "68": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013867.png",
+        "OCRText": "the"
+    },
+    "69": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003777.png",
+        "OCRText": "the"
+    },
+    "70": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014710.png",
+        "OCRText": "the"
+    },
+    "71": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006970.png",
+        "OCRText": "is"
+    },
+    "72": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012819.png",
+        "OCRText": "are"
+    },
+    "73": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028847.png",
+        "OCRText": "is"
+    },
+    "74": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027009.png",
+        "OCRText": "theraight"
+    },
+    "75": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018055.png",
+        "OCRText": "an"
+    },
+    "76": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009983.png",
+        "OCRText": "thick"
+    },
+    "77": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024944.png",
+        "OCRText": "dai"
+    },
+    "78": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008871.png",
+        "OCRText": "2c"
+    },
+    "79": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021970.png",
+        "OCRText": "to"
+    },
+    "80": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027567.png",
+        "OCRText": "Poperitutar"
+    },
+    "81": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017797.png",
+        "OCRText": "salids,"
+    },
+    "82": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016870.png",
+        "OCRText": "in"
+    },
+    "83": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013229.png",
+        "OCRText": "in"
+    },
+    "84": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001326.png",
+        "OCRText": "the"
+    },
+    "85": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014743.png",
+        "OCRText": "resembers"
+    },
+    "86": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031337.png",
+        "OCRText": "tropic"
+    },
+    "87": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021671.png",
+        "OCRText": "solar"
+    },
+    "88": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009669.png",
+        "OCRText": "it"
+    },
+    "89": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026724.png",
+        "OCRText": "humaen"
+    },
+    "90": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006166.png",
+        "OCRText": "The"
+    },
+    "91": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021773.png",
+        "OCRText": "to"
+    },
+    "92": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023166.png",
+        "OCRText": "is"
+    },
+    "93": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030369.png",
+        "OCRText": "thora"
+    },
+    "94": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034633.png",
+        "OCRText": "means"
+    },
+    "95": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036178.png",
+        "OCRText": "so"
+    },
+    "96": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031406.png",
+        "OCRText": "color"
+    },
+    "97": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025275.png",
+        "OCRText": "as"
+    },
+    "98": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003942.png",
+        "OCRText": "Two"
+    },
+    "99": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011764.png",
+        "OCRText": "Answer"
+    },
+    "100": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014716.png",
+        "OCRText": "of"
+    },
+    "101": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016164.png",
+        "OCRText": "is"
+    },
+    "102": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011326.png",
+        "OCRText": "operatory"
+    },
+    "103": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025880.png",
+        "OCRText": "have"
+    },
+    "104": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004753.png",
+        "OCRText": "The"
+    },
+    "105": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019204.png",
+        "OCRText": "come"
+    },
+    "106": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016740.png",
+        "OCRText": "list"
+    },
+    "107": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023424.png",
+        "OCRText": "pure"
+    },
+    "108": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014268.png",
+        "OCRText": "18"
+    },
+    "109": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023775.png",
+        "OCRText": "quantit"
+    },
+    "110": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010757.png",
+        "OCRText": "184"
+    },
+    "111": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025265.png",
+        "OCRText": "g"
+    },
+    "112": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020349.png",
+        "OCRText": "sartispugation"
+    },
+    "113": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012648.png",
+        "OCRText": "C"
+    },
+    "114": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023661.png",
+        "OCRText": "the"
+    },
+    "115": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032176.png",
+        "OCRText": "9"
+    },
+    "116": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013070.png",
+        "OCRText": "more"
+    },
+    "117": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001180.png",
+        "OCRText": "Edgetables"
+    },
+    "118": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000050.png",
+        "OCRText": "atd"
+    },
+    "119": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035660.png",
+        "OCRText": "the"
+    },
+    "120": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027822.png",
+        "OCRText": "future"
+    },
+    "121": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010920.png",
+        "OCRText": "a"
+    },
+    "122": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009643.png",
+        "OCRText": "the"
+    },
+    "123": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002738.png",
+        "OCRText": "plassmphention"
+    },
+    "124": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014106.png",
+        "OCRText": "voltage"
+    },
+    "125": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016260.png",
+        "OCRText": "60)"
+    },
+    "126": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002764.png",
+        "OCRText": "element"
+    },
+    "127": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009698.png",
+        "OCRText": "the"
+    },
+    "128": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007775.png",
+        "OCRText": "carmathand"
+    },
+    "129": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014116.png",
+        "OCRText": "down"
+    },
+    "130": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023366.png",
+        "OCRText": "the"
+    },
+    "131": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015316.png",
+        "OCRText": "the"
+    },
+    "132": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006478.png",
+        "OCRText": "Neptune"
+    },
+    "133": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031272.png",
+        "OCRText": "sliskinct"
+    },
+    "134": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022277.png",
+        "OCRText": "above"
+    },
+    "135": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022151.png",
+        "OCRText": "solution"
+    },
+    "136": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025143.png",
+        "OCRText": "elaporation"
+    },
+    "137": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001588.png",
+        "OCRText": "nix"
+    },
+    "138": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024349.png",
+        "OCRText": "ment"
+    },
+    "139": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036659.png",
+        "OCRText": "of"
+    },
+    "140": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027342.png",
+        "OCRText": "wire"
+    },
+    "141": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024105.png",
+        "OCRText": "yma"
+    },
+    "142": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008619.png",
+        "OCRText": "solution"
+    },
+    "143": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024278.png",
+        "OCRText": "c"
+    },
+    "144": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017664.png",
+        "OCRText": "unit"
+    },
+    "145": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031803.png",
+        "OCRText": "condition"
+    },
+    "146": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016472.png",
+        "OCRText": "plote"
+    },
+    "147": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005330.png",
+        "OCRText": "unbalanced"
+    },
+    "148": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014919.png",
+        "OCRText": "density"
+    },
+    "149": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012542.png",
+        "OCRText": "o"
+    },
+    "150": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015228.png",
+        "OCRText": "The"
+    },
+    "151": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004276.png",
+        "OCRText": "per"
+    },
+    "152": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007626.png",
+        "OCRText": "by"
+    },
+    "153": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034291.png",
+        "OCRText": "initial"
+    },
+    "154": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036481.png",
+        "OCRText": "be"
+    },
+    "155": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017335.png",
+        "OCRText": "is"
+    },
+    "156": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002368.png",
+        "OCRText": "the"
+    },
+    "157": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022319.png",
+        "OCRText": "2si"
+    },
+    "158": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030873.png",
+        "OCRText": "(a)"
+    },
+    "159": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006981.png",
+        "OCRText": "of"
+    },
+    "160": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023685.png",
+        "OCRText": "and"
+    },
+    "161": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023469.png",
+        "OCRText": "11."
+    },
+    "162": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032080.png",
+        "OCRText": "organs"
+    },
+    "163": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003672.png",
+        "OCRText": "2"
+    },
+    "164": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012511.png",
+        "OCRText": "Pradtactibles"
+    },
+    "165": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033709.png",
+        "OCRText": "lIbalacenod"
+    },
+    "166": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000700.png",
+        "OCRText": "otainion"
+    },
+    "167": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001551.png",
+        "OCRText": "doron"
+    },
+    "168": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001609.png",
+        "OCRText": "A"
+    },
+    "169": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035573.png",
+        "OCRText": "."
+    },
+    "170": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003340.png",
+        "OCRText": "did"
+    },
+    "171": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008995.png",
+        "OCRText": "inam"
+    },
+    "172": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029433.png",
+        "OCRText": "than"
+    },
+    "173": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025832.png",
+        "OCRText": "the"
+    },
+    "174": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029797.png",
+        "OCRText": "colloidal"
+    },
+    "175": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011625.png",
+        "OCRText": "4"
+    },
+    "176": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000685.png",
+        "OCRText": "Hotoxtonstatar"
+    },
+    "177": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036789.png",
+        "OCRText": "homogrims"
+    },
+    "178": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010250.png",
+        "OCRText": "to"
+    },
+    "179": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026178.png",
+        "OCRText": "mast"
+    },
+    "180": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010688.png",
+        "OCRText": "includes"
+    },
+    "181": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026997.png",
+        "OCRText": "if"
+    },
+    "182": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027630.png",
+        "OCRText": "tithe"
+    },
+    "183": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034363.png",
+        "OCRText": "*"
+    },
+    "184": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006829.png",
+        "OCRText": "monocot"
+    },
+    "185": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011043.png",
+        "OCRText": "by"
+    },
+    "186": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002089.png",
+        "OCRText": "of"
+    },
+    "187": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015135.png",
+        "OCRText": "The"
+    },
+    "188": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031797.png",
+        "OCRText": "prirciple"
+    },
+    "189": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014031.png",
+        "OCRText": "the"
+    },
+    "190": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036110.png",
+        "OCRText": "was"
+    },
+    "191": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006687.png",
+        "OCRText": "known"
+    },
+    "192": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005061.png",
+        "OCRText": "colloidal"
+    },
+    "193": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017204.png",
+        "OCRText": "cany"
+    },
+    "194": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005472.png",
+        "OCRText": "the"
+    },
+    "195": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035396.png",
+        "OCRText": "AC"
+    },
+    "196": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032122.png",
+        "OCRText": "the"
+    },
+    "197": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003696.png",
+        "OCRText": "Ahswer"
+    },
+    "198": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021981.png",
+        "OCRText": "the"
+    },
+    "199": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007106.png",
+        "OCRText": "in"
+    },
+    "200": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032318.png",
+        "OCRText": "carts"
+    },
+    "201": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009845.png",
+        "OCRText": "of"
+    },
+    "202": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014750.png",
+        "OCRText": "Mol"
+    },
+    "203": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033702.png",
+        "OCRText": "motion"
+    },
+    "204": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007370.png",
+        "OCRText": "also"
+    },
+    "205": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020770.png",
+        "OCRText": "of"
+    },
+    "206": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035483.png",
+        "OCRText": "cont"
+    },
+    "207": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014552.png",
+        "OCRText": "the"
+    },
+    "208": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000875.png",
+        "OCRText": "dicot"
+    },
+    "209": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011854.png",
+        "OCRText": "of"
+    },
+    "210": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003693.png",
+        "OCRText": "electrostrtatic"
+    },
+    "211": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027661.png",
+        "OCRText": "7"
+    },
+    "212": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030983.png",
+        "OCRText": "a)"
+    },
+    "213": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020262.png",
+        "OCRText": "This"
+    },
+    "214": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026392.png",
+        "OCRText": "remetough"
+    },
+    "215": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012903.png",
+        "OCRText": "Small"
+    },
+    "216": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024982.png",
+        "OCRText": "is"
+    },
+    "217": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009118.png",
+        "OCRText": "in"
+    },
+    "218": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017080.png",
+        "OCRText": "32)"
+    },
+    "219": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030703.png",
+        "OCRText": "The"
+    },
+    "220": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015456.png",
+        "OCRText": "obsobolishe"
+    },
+    "221": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012527.png",
+        "OCRText": "number"
+    },
+    "222": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021943.png",
+        "OCRText": "Reasabalance"
+    },
+    "223": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012439.png",
+        "OCRText": "called"
+    },
+    "224": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025440.png",
+        "OCRText": "*)"
+    },
+    "225": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012181.png",
+        "OCRText": "and"
+    },
+    "226": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019483.png",
+        "OCRText": "of"
+    },
+    "227": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015605.png",
+        "OCRText": "m"
+    },
+    "228": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031281.png",
+        "OCRText": "F"
+    },
+    "229": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008025.png",
+        "OCRText": "This"
+    },
+    "230": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010186.png",
+        "OCRText": "b)armpene"
+    },
+    "231": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025941.png",
+        "OCRText": "the"
+    },
+    "232": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025077.png",
+        "OCRText": "*In"
+    },
+    "233": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005155.png",
+        "OCRText": "mass"
+    },
+    "234": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035193.png",
+        "OCRText": "Called"
+    },
+    "235": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015314.png",
+        "OCRText": "are"
+    },
+    "236": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018157.png",
+        "OCRText": "partoid"
+    },
+    "237": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013846.png",
+        "OCRText": "energy"
+    },
+    "238": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028101.png",
+        "OCRText": "set"
+    },
+    "239": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009636.png",
+        "OCRText": "of"
+    },
+    "240": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036885.png",
+        "OCRText": "preseth"
+    },
+    "241": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023104.png",
+        "OCRText": "the"
+    },
+    "242": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010759.png",
+        "OCRText": "*"
+    },
+    "243": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018480.png",
+        "OCRText": "correct"
+    },
+    "244": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031731.png",
+        "OCRText": "OF"
+    },
+    "245": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024597.png",
+        "OCRText": "left"
+    },
+    "246": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001604.png",
+        "OCRText": "it"
+    },
+    "247": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001958.png",
+        "OCRText": "model"
+    },
+    "248": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012851.png",
+        "OCRText": "gas"
+    },
+    "249": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030352.png",
+        "OCRText": "o"
+    },
+    "250": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024555.png",
+        "OCRText": "know"
+    },
+    "251": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009163.png",
+        "OCRText": "senna"
+    },
+    "252": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035433.png",
+        "OCRText": "hatories"
+    },
+    "253": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017139.png",
+        "OCRText": "ratio"
+    },
+    "254": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018441.png",
+        "OCRText": "arransed"
+    },
+    "255": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023060.png",
+        "OCRText": "She"
+    },
+    "256": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009172.png",
+        "OCRText": "Componanty"
+    },
+    "257": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000111.png",
+        "OCRText": "sng"
+    },
+    "258": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022670.png",
+        "OCRText": "are"
+    },
+    "259": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002631.png",
+        "OCRText": "Mixosters"
+    },
+    "260": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032472.png",
+        "OCRText": "to"
+    },
+    "261": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029215.png",
+        "OCRText": "It"
+    },
+    "262": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027072.png",
+        "OCRText": "speakee"
+    },
+    "263": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035207.png",
+        "OCRText": "fillerate"
+    },
+    "264": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012266.png",
+        "OCRText": "partief"
+    },
+    "265": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022023.png",
+        "OCRText": "plate"
+    },
+    "266": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011052.png",
+        "OCRText": "Prown"
+    },
+    "267": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027037.png",
+        "OCRText": "for"
+    },
+    "268": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026266.png",
+        "OCRText": "are"
+    },
+    "269": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025359.png",
+        "OCRText": "*"
+    },
+    "270": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017585.png",
+        "OCRText": "8"
+    },
+    "271": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020177.png",
+        "OCRText": "finger"
+    },
+    "272": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006127.png",
+        "OCRText": "The"
+    },
+    "273": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031394.png",
+        "OCRText": "take"
+    },
+    "274": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036403.png",
+        "OCRText": "the"
+    },
+    "275": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001006.png",
+        "OCRText": "92"
+    },
+    "276": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002376.png",
+        "OCRText": "ialarono"
+    },
+    "277": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024866.png",
+        "OCRText": "o"
+    },
+    "278": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000902.png",
+        "OCRText": "Secondery"
+    },
+    "279": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014799.png",
+        "OCRText": "7."
+    },
+    "280": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036932.png",
+        "OCRText": "Central"
+    },
+    "281": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031709.png",
+        "OCRText": "its"
+    },
+    "282": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034161.png",
+        "OCRText": "of"
+    },
+    "283": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012108.png",
+        "OCRText": "It"
+    },
+    "284": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017314.png",
+        "OCRText": "tissue"
+    },
+    "285": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010515.png",
+        "OCRText": "34H"
+    },
+    "286": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029655.png",
+        "OCRText": "co"
+    },
+    "287": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030220.png",
+        "OCRText": "b"
+    },
+    "288": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018380.png",
+        "OCRText": "of"
+    },
+    "289": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030903.png",
+        "OCRText": "vassular"
+    },
+    "290": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004708.png",
+        "OCRText": "k."
+    },
+    "291": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007374.png",
+        "OCRText": "soplewobere"
+    },
+    "292": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027532.png",
+        "OCRText": "of"
+    },
+    "293": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026145.png",
+        "OCRText": "the"
+    },
+    "294": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014017.png",
+        "OCRText": "current"
+    },
+    "295": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026426.png",
+        "OCRText": "A"
+    },
+    "296": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007449.png",
+        "OCRText": "livening"
+    },
+    "297": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004208.png",
+        "OCRText": "of"
+    },
+    "298": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000678.png",
+        "OCRText": "K.stem"
+    },
+    "299": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003130.png",
+        "OCRText": "the"
+    },
+    "300": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017082.png",
+        "OCRText": "c)"
+    },
+    "301": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000758.png",
+        "OCRText": "F"
+    },
+    "302": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001001.png",
+        "OCRText": "As"
+    },
+    "303": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030388.png",
+        "OCRText": "gills"
+    },
+    "304": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009890.png",
+        "OCRText": "into"
+    },
+    "305": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011315.png",
+        "OCRText": "reperatory"
+    },
+    "306": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011969.png",
+        "OCRText": "success"
+    },
+    "307": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025062.png",
+        "OCRText": "as"
+    },
+    "308": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033289.png",
+        "OCRText": "of"
+    },
+    "309": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024614.png",
+        "OCRText": "of"
+    },
+    "310": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028097.png",
+        "OCRText": "was"
+    },
+    "311": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029218.png",
+        "OCRText": "ionic"
+    },
+    "312": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026561.png",
+        "OCRText": "egg"
+    },
+    "313": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028109.png",
+        "OCRText": "rgaining"
+    },
+    "314": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012192.png",
+        "OCRText": "unpure"
+    },
+    "315": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009739.png",
+        "OCRText": "and"
+    },
+    "316": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021942.png",
+        "OCRText": "Valt"
+    },
+    "317": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025750.png",
+        "OCRText": "directly"
+    },
+    "318": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018255.png",
+        "OCRText": "and"
+    },
+    "319": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020630.png",
+        "OCRText": "is"
+    },
+    "320": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034280.png",
+        "OCRText": "b"
+    },
+    "321": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018542.png",
+        "OCRText": "29"
+    },
+    "322": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029527.png",
+        "OCRText": "cons"
+    },
+    "323": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006077.png",
+        "OCRText": "Mn"
+    },
+    "324": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030011.png",
+        "OCRText": "and"
+    },
+    "325": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032919.png",
+        "OCRText": "its"
+    },
+    "326": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032102.png",
+        "OCRText": "a"
+    },
+    "327": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032279.png",
+        "OCRText": "water"
+    },
+    "328": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014201.png",
+        "OCRText": "*"
+    },
+    "329": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003053.png",
+        "OCRText": "can"
+    },
+    "330": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008513.png",
+        "OCRText": "burnedtie"
+    },
+    "331": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003760.png",
+        "OCRText": "ni"
+    },
+    "332": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012466.png",
+        "OCRText": "of"
+    },
+    "333": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027219.png",
+        "OCRText": "v)"
+    },
+    "334": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022309.png",
+        "OCRText": "throligh"
+    },
+    "335": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030630.png",
+        "OCRText": "to"
+    },
+    "336": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030343.png",
+        "OCRText": "1xist"
+    },
+    "337": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007741.png",
+        "OCRText": "Rhesibaliano"
+    },
+    "338": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026789.png",
+        "OCRText": "*"
+    },
+    "339": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024322.png",
+        "OCRText": "11"
+    },
+    "340": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013832.png",
+        "OCRText": "more"
+    },
+    "341": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035609.png",
+        "OCRText": "It"
+    },
+    "342": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023495.png",
+        "OCRText": "ssing"
+    },
+    "343": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028519.png",
+        "OCRText": "Ritoching"
+    },
+    "344": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031531.png",
+        "OCRText": "to"
+    },
+    "345": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009537.png",
+        "OCRText": "called"
+    },
+    "346": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020626.png",
+        "OCRText": "atom"
+    },
+    "347": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036085.png",
+        "OCRText": "term"
+    },
+    "348": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007969.png",
+        "OCRText": "that"
+    },
+    "349": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027866.png",
+        "OCRText": "and"
+    },
+    "350": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000742.png",
+        "OCRText": "kg"
+    },
+    "351": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029641.png",
+        "OCRText": "travered"
+    },
+    "352": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000110.png",
+        "OCRText": "KENGEASPOSENT"
+    },
+    "353": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032962.png",
+        "OCRText": "homical"
+    },
+    "354": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024479.png",
+        "OCRText": "second"
+    },
+    "355": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006303.png",
+        "OCRText": "gaes"
+    },
+    "356": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024761.png",
+        "OCRText": "There"
+    },
+    "357": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020450.png",
+        "OCRText": "detail"
+    },
+    "358": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029209.png",
+        "OCRText": "polar"
+    },
+    "359": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018377.png",
+        "OCRText": "stomach"
+    },
+    "360": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032262.png",
+        "OCRText": "g"
+    },
+    "361": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031029.png",
+        "OCRText": "of"
+    },
+    "362": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011212.png",
+        "OCRText": "*"
+    },
+    "363": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033559.png",
+        "OCRText": "and"
+    },
+    "364": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025017.png",
+        "OCRText": "is"
+    },
+    "365": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011351.png",
+        "OCRText": "3."
+    },
+    "366": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011453.png",
+        "OCRText": "longer"
+    },
+    "367": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033938.png",
+        "OCRText": "Different"
+    },
+    "368": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002465.png",
+        "OCRText": "isthe"
+    },
+    "369": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010453.png",
+        "OCRText": "stebrtama"
+    },
+    "370": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027611.png",
+        "OCRText": "mattic"
+    },
+    "371": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002412.png",
+        "OCRText": "the"
+    },
+    "372": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011683.png",
+        "OCRText": "last"
+    },
+    "373": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019213.png",
+        "OCRText": "object"
+    },
+    "374": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030562.png",
+        "OCRText": "3."
+    },
+    "375": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015371.png",
+        "OCRText": "are"
+    },
+    "376": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018019.png",
+        "OCRText": "6"
+    },
+    "377": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021370.png",
+        "OCRText": "Mass."
+    },
+    "378": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029787.png",
+        "OCRText": "met"
+    },
+    "379": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012458.png",
+        "OCRText": "Atom"
+    },
+    "380": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035867.png",
+        "OCRText": "on"
+    },
+    "381": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014171.png",
+        "OCRText": "215)"
+    },
+    "382": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005187.png",
+        "OCRText": "is"
+    },
+    "383": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013097.png",
+        "OCRText": "400."
+    },
+    "384": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011276.png",
+        "OCRText": "12"
+    },
+    "385": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010946.png",
+        "OCRText": "tranned"
+    },
+    "386": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035667.png",
+        "OCRText": "13."
+    },
+    "387": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021230.png",
+        "OCRText": "consumed"
+    },
+    "388": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017951.png",
+        "OCRText": "solution"
+    },
+    "389": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023002.png",
+        "OCRText": "ahoose"
+    },
+    "390": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003978.png",
+        "OCRText": "science"
+    },
+    "391": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006727.png",
+        "OCRText": "is"
+    },
+    "392": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030159.png",
+        "OCRText": "itirely"
+    },
+    "393": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020157.png",
+        "OCRText": "the"
+    },
+    "394": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032170.png",
+        "OCRText": "heating"
+    },
+    "395": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028661.png",
+        "OCRText": "Hydroductic"
+    },
+    "396": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009648.png",
+        "OCRText": "botterm"
+    },
+    "397": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005176.png",
+        "OCRText": "weight"
+    },
+    "398": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023314.png",
+        "OCRText": "rag"
+    },
+    "399": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018387.png",
+        "OCRText": "wretime"
+    },
+    "400": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025800.png",
+        "OCRText": "earth"
+    },
+    "401": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002583.png",
+        "OCRText": "ooo"
+    },
+    "402": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007888.png",
+        "OCRText": "is"
+    },
+    "403": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011588.png",
+        "OCRText": "((IH"
+    },
+    "404": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001383.png",
+        "OCRText": "in"
+    },
+    "405": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030712.png",
+        "OCRText": "F"
+    },
+    "406": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004305.png",
+        "OCRText": "blood"
+    },
+    "407": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005262.png",
+        "OCRText": "vector"
+    },
+    "408": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022318.png",
+        "OCRText": "system"
+    },
+    "409": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022580.png",
+        "OCRText": "mesurement"
+    },
+    "410": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024737.png",
+        "OCRText": "c"
+    },
+    "411": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002896.png",
+        "OCRText": "started"
+    },
+    "412": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013199.png",
+        "OCRText": "largest"
+    },
+    "413": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015373.png",
+        "OCRText": "Oigestion"
+    },
+    "414": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006286.png",
+        "OCRText": "The"
+    },
+    "415": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000859.png",
+        "OCRText": "trempulation"
+    },
+    "416": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022572.png",
+        "OCRText": "massure"
+    },
+    "417": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001453.png",
+        "OCRText": "withe"
+    },
+    "418": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022179.png",
+        "OCRText": "Vary"
+    },
+    "419": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026393.png",
+        "OCRText": "o"
+    },
+    "420": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011361.png",
+        "OCRText": "*"
+    },
+    "421": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020980.png",
+        "OCRText": "as"
+    },
+    "422": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036423.png",
+        "OCRText": "of"
+    },
+    "423": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028226.png",
+        "OCRText": "d)"
+    },
+    "424": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004256.png",
+        "OCRText": "oxggens"
+    },
+    "425": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015746.png",
+        "OCRText": "compared"
+    },
+    "426": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029525.png",
+        "OCRText": "guest"
+    },
+    "427": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003671.png",
+        "OCRText": "stamata"
+    },
+    "428": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012856.png",
+        "OCRText": "solid"
+    },
+    "429": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018835.png",
+        "OCRText": "is"
+    },
+    "430": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001570.png",
+        "OCRText": "will"
+    },
+    "431": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034735.png",
+        "OCRText": "by"
+    },
+    "432": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027467.png",
+        "OCRText": "I"
+    },
+    "433": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012399.png",
+        "OCRText": "the"
+    },
+    "434": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019108.png",
+        "OCRText": "animal"
+    },
+    "435": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022931.png",
+        "OCRText": "Ho"
+    },
+    "436": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005657.png",
+        "OCRText": "He"
+    },
+    "437": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003709.png",
+        "OCRText": "dcat"
+    },
+    "438": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036662.png",
+        "OCRText": "voltage"
+    },
+    "439": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011426.png",
+        "OCRText": "year"
+    },
+    "440": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018217.png",
+        "OCRText": "mouth"
+    },
+    "441": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009088.png",
+        "OCRText": "clay"
+    },
+    "442": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006090.png",
+        "OCRText": "atomic"
+    },
+    "443": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014190.png",
+        "OCRText": "n)"
+    },
+    "444": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006399.png",
+        "OCRText": "SI"
+    },
+    "445": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024011.png",
+        "OCRText": "There"
+    },
+    "446": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030044.png",
+        "OCRText": "by"
+    },
+    "447": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020084.png",
+        "OCRText": "the"
+    },
+    "448": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000762.png",
+        "OCRText": "*"
+    },
+    "449": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031412.png",
+        "OCRText": "it"
+    },
+    "450": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002795.png",
+        "OCRText": "atomic"
+    },
+    "451": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028375.png",
+        "OCRText": "14"
+    },
+    "452": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035110.png",
+        "OCRText": "how"
+    },
+    "453": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002752.png",
+        "OCRText": "An"
+    },
+    "454": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001761.png",
+        "OCRText": "the"
+    },
+    "455": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009284.png",
+        "OCRText": "found"
+    },
+    "456": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031819.png",
+        "OCRText": "1"
+    },
+    "457": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009220.png",
+        "OCRText": "substance"
+    },
+    "458": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001695.png",
+        "OCRText": "of"
+    },
+    "459": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024497.png",
+        "OCRText": "i"
+    },
+    "460": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025898.png",
+        "OCRText": "to"
+    },
+    "461": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026857.png",
+        "OCRText": "r"
+    },
+    "462": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008739.png",
+        "OCRText": "food"
+    },
+    "463": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006332.png",
+        "OCRText": "is"
+    },
+    "464": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008939.png",
+        "OCRText": "they"
+    },
+    "465": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003108.png",
+        "OCRText": "as"
+    },
+    "466": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028093.png",
+        "OCRText": "are"
+    },
+    "467": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031664.png",
+        "OCRText": "and"
+    },
+    "468": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025879.png",
+        "OCRText": "dense"
+    },
+    "469": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009362.png",
+        "OCRText": "Modern"
+    },
+    "470": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004539.png",
+        "OCRText": "speller"
+    },
+    "471": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024282.png",
+        "OCRText": "weber"
+    },
+    "472": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005333.png",
+        "OCRText": "upon"
+    },
+    "473": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027557.png",
+        "OCRText": "18."
+    },
+    "474": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025155.png",
+        "OCRText": "surface"
+    },
+    "475": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035235.png",
+        "OCRText": "siquid"
+    },
+    "476": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020425.png",
+        "OCRText": "herery"
+    },
+    "477": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035629.png",
+        "OCRText": "Processon"
+    },
+    "478": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025128.png",
+        "OCRText": "to"
+    },
+    "479": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029437.png",
+        "OCRText": "."
+    },
+    "480": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007046.png",
+        "OCRText": "sysinge"
+    },
+    "481": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026144.png",
+        "OCRText": "by"
+    },
+    "482": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007661.png",
+        "OCRText": "pond"
+    },
+    "483": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021436.png",
+        "OCRText": "also"
+    },
+    "484": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013165.png",
+        "OCRText": "The"
+    },
+    "485": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004247.png",
+        "OCRText": "oxygen"
+    },
+    "486": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033098.png",
+        "OCRText": "banaformer"
+    },
+    "487": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031741.png",
+        "OCRText": "Constact"
+    },
+    "488": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008970.png",
+        "OCRText": "plant"
+    },
+    "489": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010078.png",
+        "OCRText": "the"
+    },
+    "490": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023957.png",
+        "OCRText": "called"
+    },
+    "491": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025951.png",
+        "OCRText": "Rithropoda"
+    },
+    "492": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000507.png",
+        "OCRText": "rimi"
+    },
+    "493": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032268.png",
+        "OCRText": "4"
+    },
+    "494": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007692.png",
+        "OCRText": "wixter"
+    },
+    "495": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001218.png",
+        "OCRText": "chicken"
+    },
+    "496": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018561.png",
+        "OCRText": "6co2"
+    },
+    "497": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030202.png",
+        "OCRText": "one"
+    },
+    "498": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021283.png",
+        "OCRText": ""
+    },
+    "499": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030690.png",
+        "OCRText": "force"
+    },
+    "500": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034117.png",
+        "OCRText": "ducar"
+    },
+    "501": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016801.png",
+        "OCRText": "the"
+    },
+    "502": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034449.png",
+        "OCRText": "coury"
+    },
+    "503": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014005.png",
+        "OCRText": "in"
+    },
+    "504": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032856.png",
+        "OCRText": "in"
+    },
+    "505": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033770.png",
+        "OCRText": "v"
+    },
+    "506": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016395.png",
+        "OCRText": "Goodinate"
+    },
+    "507": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028049.png",
+        "OCRText": "mbistimatic"
+    },
+    "508": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013792.png",
+        "OCRText": "of"
+    },
+    "509": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007107.png",
+        "OCRText": "because"
+    },
+    "510": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030683.png",
+        "OCRText": "uniform"
+    },
+    "511": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012483.png",
+        "OCRText": "of"
+    },
+    "512": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017293.png",
+        "OCRText": "Feconodainy"
+    },
+    "513": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031888.png",
+        "OCRText": "toe"
+    },
+    "514": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003915.png",
+        "OCRText": "meets"
+    },
+    "515": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023078.png",
+        "OCRText": "*"
+    },
+    "516": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031422.png",
+        "OCRText": "tell"
+    },
+    "517": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013112.png",
+        "OCRText": "at"
+    },
+    "518": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035303.png",
+        "OCRText": "incriant"
+    },
+    "519": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017320.png",
+        "OCRText": "and"
+    },
+    "520": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035131.png",
+        "OCRText": "second"
+    },
+    "521": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000909.png",
+        "OCRText": "present"
+    },
+    "522": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008655.png",
+        "OCRText": "the"
+    },
+    "523": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029416.png",
+        "OCRText": "up"
+    },
+    "524": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032342.png",
+        "OCRText": "loctor"
+    },
+    "525": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005179.png",
+        "OCRText": "very"
+    },
+    "526": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007606.png",
+        "OCRText": "As,"
+    },
+    "527": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018048.png",
+        "OCRText": "air"
+    },
+    "528": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008220.png",
+        "OCRText": "Didaxion"
+    },
+    "529": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034322.png",
+        "OCRText": "in"
+    },
+    "530": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018807.png",
+        "OCRText": "of"
+    },
+    "531": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020774.png",
+        "OCRText": "gl"
+    },
+    "532": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018238.png",
+        "OCRText": "adult"
+    },
+    "533": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006422.png",
+        "OCRText": "very"
+    },
+    "534": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004032.png",
+        "OCRText": "of"
+    },
+    "535": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022848.png",
+        "OCRText": "the"
+    },
+    "536": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020974.png",
+        "OCRText": "by"
+    },
+    "537": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009760.png",
+        "OCRText": "other"
+    },
+    "538": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014911.png",
+        "OCRText": "pressaise"
+    },
+    "539": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028488.png",
+        "OCRText": "reproduction"
+    },
+    "540": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007089.png",
+        "OCRText": "to"
+    },
+    "541": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014382.png",
+        "OCRText": "the"
+    },
+    "542": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002160.png",
+        "OCRText": "screw"
+    },
+    "543": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024905.png",
+        "OCRText": "um"
+    },
+    "544": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036041.png",
+        "OCRText": "it"
+    },
+    "545": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032219.png",
+        "OCRText": "come"
+    },
+    "546": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014524.png",
+        "OCRText": "the"
+    },
+    "547": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024846.png",
+        "OCRText": "*"
+    },
+    "548": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011866.png",
+        "OCRText": "marce"
+    },
+    "549": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004719.png",
+        "OCRText": "the"
+    },
+    "550": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010533.png",
+        "OCRText": "engry"
+    },
+    "551": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022612.png",
+        "OCRText": "ariA"
+    },
+    "552": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016995.png",
+        "OCRText": "the"
+    },
+    "553": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018624.png",
+        "OCRText": "sevenodary"
+    },
+    "554": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035408.png",
+        "OCRText": "tranfornery"
+    },
+    "555": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025010.png",
+        "OCRText": "The"
+    },
+    "556": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004425.png",
+        "OCRText": "comited"
+    },
+    "557": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002528.png",
+        "OCRText": "followent"
+    },
+    "558": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001199.png",
+        "OCRText": "we"
+    },
+    "559": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013850.png",
+        "OCRText": "and"
+    },
+    "560": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000349.png",
+        "OCRText": "Seridare"
+    },
+    "561": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024024.png",
+        "OCRText": "Tetrach"
+    },
+    "562": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030745.png",
+        "OCRText": "023"
+    },
+    "563": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016928.png",
+        "OCRText": "momentum"
+    },
+    "564": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015827.png",
+        "OCRText": "Muorffule"
+    },
+    "565": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005098.png",
+        "OCRText": "225"
+    },
+    "566": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022925.png",
+        "OCRText": "health"
+    },
+    "567": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008614.png",
+        "OCRText": "Six"
+    },
+    "568": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033805.png",
+        "OCRText": "Answer"
+    },
+    "569": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025326.png",
+        "OCRText": "Photosyntheses"
+    },
+    "570": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018047.png",
+        "OCRText": "balloons"
+    },
+    "571": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003088.png",
+        "OCRText": "plant"
+    },
+    "572": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016538.png",
+        "OCRText": "charge"
+    },
+    "573": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023886.png",
+        "OCRText": "force"
+    },
+    "574": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027122.png",
+        "OCRText": "F"
+    },
+    "575": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008391.png",
+        "OCRText": "thanoformer"
+    },
+    "576": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016500.png",
+        "OCRText": "somogethe"
+    },
+    "577": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035386.png",
+        "OCRText": "22."
+    },
+    "578": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012579.png",
+        "OCRText": "("
+    },
+    "579": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032179.png",
+        "OCRText": "is"
+    },
+    "580": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011966.png",
+        "OCRText": "persment"
+    },
+    "581": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020013.png",
+        "OCRText": "safer"
+    },
+    "582": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036543.png",
+        "OCRText": "of"
+    },
+    "583": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033538.png",
+        "OCRText": "intandirede"
+    },
+    "584": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026264.png",
+        "OCRText": "tissue"
+    },
+    "585": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024855.png",
+        "OCRText": "of"
+    },
+    "586": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033775.png",
+        "OCRText": "changeof"
+    },
+    "587": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021319.png",
+        "OCRText": "the"
+    },
+    "588": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017702.png",
+        "OCRText": "a"
+    },
+    "589": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035654.png",
+        "OCRText": "taxonomy"
+    },
+    "590": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023244.png",
+        "OCRText": "6"
+    },
+    "591": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021124.png",
+        "OCRText": "in"
+    },
+    "592": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027982.png",
+        "OCRText": "prophical"
+    },
+    "593": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005897.png",
+        "OCRText": "atomic"
+    },
+    "594": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025008.png",
+        "OCRText": "*"
+    },
+    "595": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025977.png",
+        "OCRText": "cells"
+    },
+    "596": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002354.png",
+        "OCRText": "in)Iitionhe"
+    },
+    "597": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032655.png",
+        "OCRText": "boyo,s"
+    },
+    "598": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009902.png",
+        "OCRText": "bondt"
+    },
+    "599": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009228.png",
+        "OCRText": "Water"
+    },
+    "600": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001138.png",
+        "OCRText": "Jupiter"
+    },
+    "601": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034404.png",
+        "OCRText": "by"
+    },
+    "602": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014514.png",
+        "OCRText": "by"
+    },
+    "603": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015465.png",
+        "OCRText": "Again"
+    },
+    "604": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029795.png",
+        "OCRText": "past"
+    },
+    "605": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012729.png",
+        "OCRText": "Antroid"
+    },
+    "606": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009046.png",
+        "OCRText": "caelonate"
+    },
+    "607": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030667.png",
+        "OCRText": "diractions,"
+    },
+    "608": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036032.png",
+        "OCRText": "formth"
+    },
+    "609": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027333.png",
+        "OCRText": "ee"
+    },
+    "610": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029634.png",
+        "OCRText": "Dist"
+    },
+    "611": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003260.png",
+        "OCRText": "I"
+    },
+    "612": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001216.png",
+        "OCRText": "non"
+    },
+    "613": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026269.png",
+        "OCRText": "contain"
+    },
+    "614": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001745.png",
+        "OCRText": "Mn"
+    },
+    "615": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004637.png",
+        "OCRText": "water"
+    },
+    "616": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025949.png",
+        "OCRText": "the"
+    },
+    "617": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032283.png",
+        "OCRText": "body"
+    },
+    "618": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000552.png",
+        "OCRText": "metal"
+    },
+    "619": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006631.png",
+        "OCRText": "mitochondrial"
+    },
+    "620": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024404.png",
+        "OCRText": "o"
+    },
+    "621": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016254.png",
+        "OCRText": "systheses"
+    },
+    "622": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022568.png",
+        "OCRText": "many"
+    },
+    "623": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015576.png",
+        "OCRText": "confain"
+    },
+    "624": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023100.png",
+        "OCRText": "the"
+    },
+    "625": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000825.png",
+        "OCRText": "have"
+    },
+    "626": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015921.png",
+        "OCRText": "perform"
+    },
+    "627": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007384.png",
+        "OCRText": "way"
+    },
+    "628": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023262.png",
+        "OCRText": "dis,arers,"
+    },
+    "629": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007141.png",
+        "OCRText": "etc"
+    },
+    "630": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031248.png",
+        "OCRText": "8"
+    },
+    "631": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015143.png",
+        "OCRText": "caloritieship"
+    },
+    "632": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026701.png",
+        "OCRText": "*"
+    },
+    "633": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029997.png",
+        "OCRText": "o"
+    },
+    "634": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007961.png",
+        "OCRText": "celly"
+    },
+    "635": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030864.png",
+        "OCRText": "(((G)"
+    },
+    "636": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015230.png",
+        "OCRText": "elements"
+    },
+    "637": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006818.png",
+        "OCRText": "the"
+    },
+    "638": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028163.png",
+        "OCRText": "Ubrity"
+    },
+    "639": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014645.png",
+        "OCRText": "the"
+    },
+    "640": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027551.png",
+        "OCRText": "F"
+    },
+    "641": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013798.png",
+        "OCRText": "flue"
+    },
+    "642": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033194.png",
+        "OCRText": "moscoment"
+    },
+    "643": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012783.png",
+        "OCRText": "8"
+    },
+    "644": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030483.png",
+        "OCRText": "are"
+    },
+    "645": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023714.png",
+        "OCRText": "I"
+    },
+    "646": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002342.png",
+        "OCRText": "secondary"
+    },
+    "647": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022561.png",
+        "OCRText": "Scale"
+    },
+    "648": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025997.png",
+        "OCRText": "the"
+    },
+    "649": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017992.png",
+        "OCRText": "are"
+    },
+    "650": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022815.png",
+        "OCRText": "for"
+    },
+    "651": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012627.png",
+        "OCRText": "Calos,"
+    },
+    "652": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026807.png",
+        "OCRText": "yigoerm"
+    },
+    "653": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033108.png",
+        "OCRText": "to"
+    },
+    "654": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001548.png",
+        "OCRText": "of"
+    },
+    "655": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012273.png",
+        "OCRText": "of"
+    },
+    "656": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036062.png",
+        "OCRText": "*"
+    },
+    "657": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001918.png",
+        "OCRText": "peradic"
+    },
+    "658": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018382.png",
+        "OCRText": "used"
+    },
+    "659": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017903.png",
+        "OCRText": "are"
+    },
+    "660": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010885.png",
+        "OCRText": "pototants"
+    },
+    "661": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026472.png",
+        "OCRText": "of"
+    },
+    "662": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016952.png",
+        "OCRText": "Infinswor"
+    },
+    "663": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027644.png",
+        "OCRText": "cossex"
+    },
+    "664": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029455.png",
+        "OCRText": "."
+    },
+    "665": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033610.png",
+        "OCRText": "Foriam"
+    },
+    "666": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011946.png",
+        "OCRText": "de"
+    },
+    "667": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008058.png",
+        "OCRText": "F"
+    },
+    "668": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015795.png",
+        "OCRText": "relhies"
+    },
+    "669": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009973.png",
+        "OCRText": "two"
+    },
+    "670": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035835.png",
+        "OCRText": "it"
+    },
+    "671": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031352.png",
+        "OCRText": "preservation"
+    },
+    "672": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026370.png",
+        "OCRText": "length"
+    },
+    "673": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028130.png",
+        "OCRText": "o"
+    },
+    "674": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012919.png",
+        "OCRText": "Respiration"
+    },
+    "675": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011762.png",
+        "OCRText": "1*"
+    },
+    "676": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018118.png",
+        "OCRText": "the"
+    },
+    "677": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008665.png",
+        "OCRText": "pavement"
+    },
+    "678": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031521.png",
+        "OCRText": "also"
+    },
+    "679": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025939.png",
+        "OCRText": "of"
+    },
+    "680": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018558.png",
+        "OCRText": "12"
+    },
+    "681": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001812.png",
+        "OCRText": "merstams"
+    },
+    "682": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011724.png",
+        "OCRText": "racing"
+    },
+    "683": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033236.png",
+        "OCRText": "computer"
+    },
+    "684": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011868.png",
+        "OCRText": "Caitain"
+    },
+    "685": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029842.png",
+        "OCRText": "a"
+    },
+    "686": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011968.png",
+        "OCRText": "a)"
+    },
+    "687": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008208.png",
+        "OCRText": "cells"
+    },
+    "688": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033377.png",
+        "OCRText": "this"
+    },
+    "689": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031875.png",
+        "OCRText": "o"
+    },
+    "690": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006145.png",
+        "OCRText": "rise"
+    },
+    "691": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023857.png",
+        "OCRText": "la"
+    },
+    "692": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021270.png",
+        "OCRText": "of"
+    },
+    "693": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011246.png",
+        "OCRText": "they"
+    },
+    "694": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012605.png",
+        "OCRText": "Molas"
+    },
+    "695": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010060.png",
+        "OCRText": "stat"
+    },
+    "696": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013085.png",
+        "OCRText": "for"
+    },
+    "697": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027339.png",
+        "OCRText": "cloc"
+    },
+    "698": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023533.png",
+        "OCRText": "fancerfuse"
+    },
+    "699": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003468.png",
+        "OCRText": "phocessing"
+    },
+    "700": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025271.png",
+        "OCRText": "is"
+    },
+    "701": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026036.png",
+        "OCRText": "bo"
+    },
+    "702": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023802.png",
+        "OCRText": "the"
+    },
+    "703": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004216.png",
+        "OCRText": "oxyromes"
+    },
+    "704": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015256.png",
+        "OCRText": "cometicaling"
+    },
+    "705": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030905.png",
+        "OCRText": "Perdicans"
+    },
+    "706": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011514.png",
+        "OCRText": "Np"
+    },
+    "707": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007123.png",
+        "OCRText": "the"
+    },
+    "708": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032980.png",
+        "OCRText": "25)"
+    },
+    "709": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002263.png",
+        "OCRText": "These"
+    },
+    "710": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033776.png",
+        "OCRText": "of"
+    },
+    "711": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030978.png",
+        "OCRText": "a"
+    },
+    "712": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010641.png",
+        "OCRText": "bean"
+    },
+    "713": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010080.png",
+        "OCRText": "consocation"
+    },
+    "714": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033016.png",
+        "OCRText": "c"
+    },
+    "715": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009086.png",
+        "OCRText": "is"
+    },
+    "716": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035364.png",
+        "OCRText": "Confient"
+    },
+    "717": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015280.png",
+        "OCRText": "the"
+    },
+    "718": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031999.png",
+        "OCRText": "5T2"
+    },
+    "719": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004505.png",
+        "OCRText": "serio"
+    },
+    "720": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034135.png",
+        "OCRText": "about"
+    },
+    "721": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015807.png",
+        "OCRText": "cream"
+    },
+    "722": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023337.png",
+        "OCRText": "Mancy"
+    },
+    "723": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010737.png",
+        "OCRText": "pirtornse"
+    },
+    "724": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006806.png",
+        "OCRText": "each"
+    },
+    "725": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028252.png",
+        "OCRText": "lunds,"
+    },
+    "726": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016529.png",
+        "OCRText": "is"
+    },
+    "727": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009254.png",
+        "OCRText": "provistim"
+    },
+    "728": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035903.png",
+        "OCRText": "this"
+    },
+    "729": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010028.png",
+        "OCRText": "inner"
+    },
+    "730": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034659.png",
+        "OCRText": "tho"
+    },
+    "731": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018529.png",
+        "OCRText": "is"
+    },
+    "732": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011837.png",
+        "OCRText": "a"
+    },
+    "733": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026948.png",
+        "OCRText": "*"
+    },
+    "734": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032115.png",
+        "OCRText": "objects"
+    },
+    "735": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003483.png",
+        "OCRText": "stable"
+    },
+    "736": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023505.png",
+        "OCRText": "of"
+    },
+    "737": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028324.png",
+        "OCRText": "But"
+    },
+    "738": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033077.png",
+        "OCRText": "two"
+    },
+    "739": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025727.png",
+        "OCRText": "stances"
+    },
+    "740": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007623.png",
+        "OCRText": "6.18"
+    },
+    "741": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035229.png",
+        "OCRText": "and"
+    },
+    "742": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014594.png",
+        "OCRText": "Caxture"
+    },
+    "743": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013896.png",
+        "OCRText": "up"
+    },
+    "744": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026644.png",
+        "OCRText": "a"
+    },
+    "745": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032957.png",
+        "OCRText": "bond"
+    },
+    "746": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020580.png",
+        "OCRText": "useel"
+    },
+    "747": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000739.png",
+        "OCRText": "ma"
+    },
+    "748": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004935.png",
+        "OCRText": "givesing"
+    },
+    "749": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001962.png",
+        "OCRText": "the"
+    },
+    "750": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016756.png",
+        "OCRText": "Five"
+    },
+    "751": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030578.png",
+        "OCRText": "sum"
+    },
+    "752": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029185.png",
+        "OCRText": "ent"
+    },
+    "753": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031228.png",
+        "OCRText": "are"
+    },
+    "754": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001426.png",
+        "OCRText": "sabilateral"
+    },
+    "755": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008645.png",
+        "OCRText": "Burlight"
+    },
+    "756": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018445.png",
+        "OCRText": "It"
+    },
+    "757": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010420.png",
+        "OCRText": "into"
+    },
+    "758": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006518.png",
+        "OCRText": "to"
+    },
+    "759": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020267.png",
+        "OCRText": "called"
+    },
+    "760": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036675.png",
+        "OCRText": "thansforman"
+    },
+    "761": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023380.png",
+        "OCRText": "seller"
+    },
+    "762": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028648.png",
+        "OCRText": "is"
+    },
+    "763": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036068.png",
+        "OCRText": "in"
+    },
+    "764": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021815.png",
+        "OCRText": "noble"
+    },
+    "765": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023294.png",
+        "OCRText": "charge"
+    },
+    "766": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026524.png",
+        "OCRText": "of"
+    },
+    "767": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020791.png",
+        "OCRText": "the"
+    },
+    "768": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029826.png",
+        "OCRText": "proce"
+    },
+    "769": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001094.png",
+        "OCRText": "sun"
+    },
+    "770": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029018.png",
+        "OCRText": "14"
+    },
+    "771": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007538.png",
+        "OCRText": "metere"
+    },
+    "772": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023351.png",
+        "OCRText": "and"
+    },
+    "773": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013729.png",
+        "OCRText": "onit"
+    },
+    "774": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017078.png",
+        "OCRText": "c"
+    },
+    "775": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036162.png",
+        "OCRText": "hocal"
+    },
+    "776": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023254.png",
+        "OCRText": "paperafs,"
+    },
+    "777": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000884.png",
+        "OCRText": "Monocot"
+    },
+    "778": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001270.png",
+        "OCRText": "paper"
+    },
+    "779": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034157.png",
+        "OCRText": "debins"
+    },
+    "780": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031390.png",
+        "OCRText": "1)se"
+    },
+    "781": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023520.png",
+        "OCRText": "Mixture"
+    },
+    "782": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028528.png",
+        "OCRText": "sound"
+    },
+    "783": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019986.png",
+        "OCRText": "balls"
+    },
+    "784": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019962.png",
+        "OCRText": "of"
+    },
+    "785": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023943.png",
+        "OCRText": "22"
+    },
+    "786": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028012.png",
+        "OCRText": "o"
+    },
+    "787": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027757.png",
+        "OCRText": "I"
+    },
+    "788": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033097.png",
+        "OCRText": "your"
+    },
+    "789": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028035.png",
+        "OCRText": "*"
+    },
+    "790": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000687.png",
+        "OCRText": "only"
+    },
+    "791": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007498.png",
+        "OCRText": "consumed"
+    },
+    "792": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026751.png",
+        "OCRText": "It"
+    },
+    "793": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031038.png",
+        "OCRText": "Unit"
+    },
+    "794": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017711.png",
+        "OCRText": "alone"
+    },
+    "795": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021857.png",
+        "OCRText": "in"
+    },
+    "796": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029810.png",
+        "OCRText": "as"
+    },
+    "797": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027117.png",
+        "OCRText": "to"
+    },
+    "798": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006339.png",
+        "OCRText": "somes"
+    },
+    "799": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016806.png",
+        "OCRText": "bond"
+    },
+    "800": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028521.png",
+        "OCRText": "condral"
+    },
+    "801": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013238.png",
+        "OCRText": "present"
+    },
+    "802": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034561.png",
+        "OCRText": "Anignomesty"
+    },
+    "803": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033009.png",
+        "OCRText": "c"
+    },
+    "804": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026022.png",
+        "OCRText": "8"
+    },
+    "805": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029307.png",
+        "OCRText": "of"
+    },
+    "806": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031928.png",
+        "OCRText": "monecot"
+    },
+    "807": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004232.png",
+        "OCRText": "mitochoetria"
+    },
+    "808": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034440.png",
+        "OCRText": "t"
+    },
+    "809": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013662.png",
+        "OCRText": "known"
+    },
+    "810": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004682.png",
+        "OCRText": "mogneative"
+    },
+    "811": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010330.png",
+        "OCRText": "are"
+    },
+    "812": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007727.png",
+        "OCRText": "Output"
+    },
+    "813": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030143.png",
+        "OCRText": "lungs"
+    },
+    "814": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030270.png",
+        "OCRText": "of"
+    },
+    "815": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021693.png",
+        "OCRText": "fruitor"
+    },
+    "816": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032564.png",
+        "OCRText": "*"
+    },
+    "817": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001292.png",
+        "OCRText": "temperature"
+    },
+    "818": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030752.png",
+        "OCRText": "4"
+    },
+    "819": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023921.png",
+        "OCRText": "*"
+    },
+    "820": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013012.png",
+        "OCRText": "stomach"
+    },
+    "821": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004958.png",
+        "OCRText": "Seanf"
+    },
+    "822": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023654.png",
+        "OCRText": "ritings"
+    },
+    "823": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013899.png",
+        "OCRText": "quantity"
+    },
+    "824": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036829.png",
+        "OCRText": "understand"
+    },
+    "825": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025533.png",
+        "OCRText": "In"
+    },
+    "826": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024595.png",
+        "OCRText": "of"
+    },
+    "827": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033574.png",
+        "OCRText": "worler"
+    },
+    "828": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005877.png",
+        "OCRText": "atomic"
+    },
+    "829": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006911.png",
+        "OCRText": "ity"
+    },
+    "830": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008746.png",
+        "OCRText": "Mean"
+    },
+    "831": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030035.png",
+        "OCRText": "the"
+    },
+    "832": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023636.png",
+        "OCRText": "side"
+    },
+    "833": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012488.png",
+        "OCRText": "o"
+    },
+    "834": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021179.png",
+        "OCRText": "Dangancesa,"
+    },
+    "835": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019503.png",
+        "OCRText": "Co2"
+    },
+    "836": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004395.png",
+        "OCRText": "very"
+    },
+    "837": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020550.png",
+        "OCRText": "*"
+    },
+    "838": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023372.png",
+        "OCRText": "are"
+    },
+    "839": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007440.png",
+        "OCRText": "4"
+    },
+    "840": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029874.png",
+        "OCRText": "in"
+    },
+    "841": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004286.png",
+        "OCRText": "blood"
+    },
+    "842": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007885.png",
+        "OCRText": "the"
+    },
+    "843": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018393.png",
+        "OCRText": "used"
+    },
+    "844": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002803.png",
+        "OCRText": "6"
+    },
+    "845": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030309.png",
+        "OCRText": "is"
+    },
+    "846": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023332.png",
+        "OCRText": "using"
+    },
+    "847": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007456.png",
+        "OCRText": "ion"
+    },
+    "848": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013058.png",
+        "OCRText": "posion"
+    },
+    "849": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011116.png",
+        "OCRText": "highly"
+    },
+    "850": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009742.png",
+        "OCRText": "is"
+    },
+    "851": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035446.png",
+        "OCRText": "18"
+    },
+    "852": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022959.png",
+        "OCRText": "very"
+    },
+    "853": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006134.png",
+        "OCRText": "go"
+    },
+    "854": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020185.png",
+        "OCRText": "the"
+    },
+    "855": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027778.png",
+        "OCRText": "Plasma"
+    },
+    "856": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002154.png",
+        "OCRText": "Pitch"
+    },
+    "857": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019606.png",
+        "OCRText": "an"
+    },
+    "858": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015254.png",
+        "OCRText": "anelmand"
+    },
+    "859": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017919.png",
+        "OCRText": "poistures"
+    },
+    "860": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006738.png",
+        "OCRText": "the"
+    },
+    "861": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012222.png",
+        "OCRText": "ii)"
+    },
+    "862": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008347.png",
+        "OCRText": "the"
+    },
+    "863": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021042.png",
+        "OCRText": "mass"
+    },
+    "864": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022296.png",
+        "OCRText": "acasterda"
+    },
+    "865": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026381.png",
+        "OCRText": "21"
+    },
+    "866": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036388.png",
+        "OCRText": "differentiate"
+    },
+    "867": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032591.png",
+        "OCRText": "2"
+    },
+    "868": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002153.png",
+        "OCRText": "Inknower"
+    },
+    "869": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029137.png",
+        "OCRText": "left"
+    },
+    "870": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005480.png",
+        "OCRText": "longer"
+    },
+    "871": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005834.png",
+        "OCRText": "called"
+    },
+    "872": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025831.png",
+        "OCRText": "The"
+    },
+    "873": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014108.png",
+        "OCRText": "hav"
+    },
+    "874": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026172.png",
+        "OCRText": "or"
+    },
+    "875": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024729.png",
+        "OCRText": "monement"
+    },
+    "876": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028048.png",
+        "OCRText": "*"
+    },
+    "877": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001801.png",
+        "OCRText": "is"
+    },
+    "878": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000582.png",
+        "OCRText": "of"
+    },
+    "879": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011823.png",
+        "OCRText": "was"
+    },
+    "880": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031846.png",
+        "OCRText": "Atom"
+    },
+    "881": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004938.png",
+        "OCRText": "The"
+    },
+    "882": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031809.png",
+        "OCRText": "correet"
+    },
+    "883": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009779.png",
+        "OCRText": "andhand"
+    },
+    "884": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020256.png",
+        "OCRText": "in"
+    },
+    "885": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005777.png",
+        "OCRText": "is"
+    },
+    "886": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001268.png",
+        "OCRText": "vapoers"
+    },
+    "887": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032367.png",
+        "OCRText": "that"
+    },
+    "888": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005992.png",
+        "OCRText": "science"
+    },
+    "889": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014499.png",
+        "OCRText": "the"
+    },
+    "890": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010037.png",
+        "OCRText": "Awative"
+    },
+    "891": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020029.png",
+        "OCRText": "Transfature"
+    },
+    "892": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017904.png",
+        "OCRText": "are"
+    },
+    "893": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007280.png",
+        "OCRText": "time"
+    },
+    "894": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024162.png",
+        "OCRText": "and"
+    },
+    "895": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010093.png",
+        "OCRText": "AtP"
+    },
+    "896": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008936.png",
+        "OCRText": "in"
+    },
+    "897": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011145.png",
+        "OCRText": "*"
+    },
+    "898": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010496.png",
+        "OCRText": "oraly"
+    },
+    "899": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018003.png",
+        "OCRText": "gasses"
+    },
+    "900": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034151.png",
+        "OCRText": "other"
+    },
+    "901": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010900.png",
+        "OCRText": "dogree"
+    },
+    "902": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001204.png",
+        "OCRText": "vitamins"
+    },
+    "903": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007597.png",
+        "OCRText": "another"
+    },
+    "904": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018774.png",
+        "OCRText": "In"
+    },
+    "905": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001468.png",
+        "OCRText": "two"
+    },
+    "906": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030046.png",
+        "OCRText": "proh"
+    },
+    "907": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027806.png",
+        "OCRText": "cubes"
+    },
+    "908": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030171.png",
+        "OCRText": "ibjans"
+    },
+    "909": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001849.png",
+        "OCRText": "ce"
+    },
+    "910": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000996.png",
+        "OCRText": "8"
+    },
+    "911": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004084.png",
+        "OCRText": "the"
+    },
+    "912": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015563.png",
+        "OCRText": "is"
+    },
+    "913": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023674.png",
+        "OCRText": "th."
+    },
+    "914": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014479.png",
+        "OCRText": "presevation"
+    },
+    "915": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007736.png",
+        "OCRText": "Noenutes"
+    },
+    "916": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031604.png",
+        "OCRText": "cever"
+    },
+    "917": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026544.png",
+        "OCRText": "2."
+    },
+    "918": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015577.png",
+        "OCRText": "They"
+    },
+    "919": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024271.png",
+        "OCRText": "I"
+    },
+    "920": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036244.png",
+        "OCRText": "20"
+    },
+    "921": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007568.png",
+        "OCRText": "Neploeen"
+    },
+    "922": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033613.png",
+        "OCRText": "II."
+    },
+    "923": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003677.png",
+        "OCRText": "shapek"
+    },
+    "924": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026058.png",
+        "OCRText": "19port"
+    },
+    "925": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033743.png",
+        "OCRText": "of"
+    },
+    "926": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006923.png",
+        "OCRText": "custent"
+    },
+    "927": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022168.png",
+        "OCRText": "having"
+    },
+    "928": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020891.png",
+        "OCRText": "tise"
+    },
+    "929": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021028.png",
+        "OCRText": "gantaty"
+    },
+    "930": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018034.png",
+        "OCRText": "The"
+    },
+    "931": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032339.png",
+        "OCRText": "o"
+    },
+    "932": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024180.png",
+        "OCRText": "to"
+    },
+    "933": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033143.png",
+        "OCRText": "of"
+    },
+    "934": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027304.png",
+        "OCRText": "4."
+    },
+    "935": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005412.png",
+        "OCRText": "rate"
+    },
+    "936": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016580.png",
+        "OCRText": "Taxaday's"
+    },
+    "937": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032092.png",
+        "OCRText": "inculdings"
+    },
+    "938": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013617.png",
+        "OCRText": "10"
+    },
+    "939": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030447.png",
+        "OCRText": "o"
+    },
+    "940": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003534.png",
+        "OCRText": "Hand"
+    },
+    "941": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018769.png",
+        "OCRText": "used"
+    },
+    "942": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024513.png",
+        "OCRText": "the"
+    },
+    "943": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029204.png",
+        "OCRText": "vehere"
+    },
+    "944": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036791.png",
+        "OCRText": "7"
+    },
+    "945": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030872.png",
+        "OCRText": "ferns"
+    },
+    "946": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011209.png",
+        "OCRText": "freeits"
+    },
+    "947": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029673.png",
+        "OCRText": "31"
+    },
+    "948": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025284.png",
+        "OCRText": "differentiate"
+    },
+    "949": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017154.png",
+        "OCRText": "11))"
+    },
+    "950": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011192.png",
+        "OCRText": "like"
+    },
+    "951": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004587.png",
+        "OCRText": "The"
+    },
+    "952": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030960.png",
+        "OCRText": "jaile"
+    },
+    "953": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024733.png",
+        "OCRText": "tropi"
+    },
+    "954": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028667.png",
+        "OCRText": "drugs"
+    },
+    "955": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029207.png",
+        "OCRText": "is"
+    },
+    "956": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032498.png",
+        "OCRText": "groed"
+    },
+    "957": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004293.png",
+        "OCRText": "typos"
+    },
+    "958": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010176.png",
+        "OCRText": "Electric"
+    },
+    "959": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034145.png",
+        "OCRText": "which"
+    },
+    "960": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010730.png",
+        "OCRText": "of"
+    },
+    "961": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032619.png",
+        "OCRText": "c)"
+    },
+    "962": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001993.png",
+        "OCRText": "the"
+    },
+    "963": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018429.png",
+        "OCRText": "heabhiy"
+    },
+    "964": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014026.png",
+        "OCRText": "found"
+    },
+    "965": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029155.png",
+        "OCRText": "palisade"
+    },
+    "966": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029561.png",
+        "OCRText": "F"
+    },
+    "967": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033860.png",
+        "OCRText": "i)"
+    },
+    "968": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001183.png",
+        "OCRText": "use"
+    },
+    "969": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031771.png",
+        "OCRText": "morning"
+    },
+    "970": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027582.png",
+        "OCRText": "be"
+    },
+    "971": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027538.png",
+        "OCRText": "*"
+    },
+    "972": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027493.png",
+        "OCRText": "3"
+    },
+    "973": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025936.png",
+        "OCRText": "charge"
+    },
+    "974": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019107.png",
+        "OCRText": "growing"
+    },
+    "975": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021846.png",
+        "OCRText": "taken"
+    },
+    "976": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023871.png",
+        "OCRText": "state"
+    },
+    "977": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029490.png",
+        "OCRText": "n)"
+    },
+    "978": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001329.png",
+        "OCRText": "can"
+    },
+    "979": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013275.png",
+        "OCRText": "vitrates"
+    },
+    "980": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003055.png",
+        "OCRText": "water"
+    },
+    "981": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032816.png",
+        "OCRText": "Parts"
+    },
+    "982": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027168.png",
+        "OCRText": "want"
+    },
+    "983": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014056.png",
+        "OCRText": "The"
+    },
+    "984": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001781.png",
+        "OCRText": "the"
+    },
+    "985": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015443.png",
+        "OCRText": "the"
+    },
+    "986": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019478.png",
+        "OCRText": "respirectory"
+    },
+    "987": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026425.png",
+        "OCRText": "a"
+    },
+    "988": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027352.png",
+        "OCRText": "*"
+    },
+    "989": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002096.png",
+        "OCRText": "makes"
+    },
+    "990": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026616.png",
+        "OCRText": "nagthalens"
+    },
+    "991": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024409.png",
+        "OCRText": "k"
+    },
+    "992": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023470.png",
+        "OCRText": "of"
+    },
+    "993": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024612.png",
+        "OCRText": "densi"
+    },
+    "994": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009240.png",
+        "OCRText": "meristem"
+    },
+    "995": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024415.png",
+        "OCRText": "the"
+    },
+    "996": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001267.png",
+        "OCRText": "water"
+    },
+    "997": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000624.png",
+        "OCRText": "any"
+    },
+    "998": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018796.png",
+        "OCRText": "e)"
+    },
+    "999": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012552.png",
+        "OCRText": "chemical"
+    },
+    "1000": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033214.png",
+        "OCRText": "the"
+    },
+    "1001": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031021.png",
+        "OCRText": "variouts"
+    },
+    "1002": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007363.png",
+        "OCRText": "atom"
+    },
+    "1003": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036486.png",
+        "OCRText": "conic"
+    },
+    "1004": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033812.png",
+        "OCRText": "is"
+    },
+    "1005": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022397.png",
+        "OCRText": "mixture"
+    },
+    "1006": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019638.png",
+        "OCRText": "and"
+    },
+    "1007": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030810.png",
+        "OCRText": "this"
+    },
+    "1008": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021496.png",
+        "OCRText": "food"
+    },
+    "1009": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008652.png",
+        "OCRText": "water"
+    },
+    "1010": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011732.png",
+        "OCRText": "important"
+    },
+    "1011": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005866.png",
+        "OCRText": "Theory"
+    },
+    "1012": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036186.png",
+        "OCRText": "chorestitios"
+    },
+    "1013": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023751.png",
+        "OCRText": "Place"
+    },
+    "1014": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011857.png",
+        "OCRText": "is"
+    },
+    "1015": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000273.png",
+        "OCRText": "water,"
+    },
+    "1016": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022030.png",
+        "OCRText": "No"
+    },
+    "1017": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014618.png",
+        "OCRText": "by"
+    },
+    "1018": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014782.png",
+        "OCRText": "not"
+    },
+    "1019": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030307.png",
+        "OCRText": "ha"
+    },
+    "1020": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030699.png",
+        "OCRText": "II"
+    },
+    "1021": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022097.png",
+        "OCRText": "the"
+    },
+    "1022": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014723.png",
+        "OCRText": "is"
+    },
+    "1023": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008341.png",
+        "OCRText": "in"
+    },
+    "1024": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022091.png",
+        "OCRText": "thea"
+    },
+    "1025": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031346.png",
+        "OCRText": "movements"
+    },
+    "1026": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009887.png",
+        "OCRText": "can"
+    },
+    "1027": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027155.png",
+        "OCRText": "i"
+    },
+    "1028": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036161.png",
+        "OCRText": "Anethetics"
+    },
+    "1029": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006691.png",
+        "OCRText": "it"
+    },
+    "1030": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020437.png",
+        "OCRText": "not"
+    },
+    "1031": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009917.png",
+        "OCRText": "solvent"
+    },
+    "1032": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030452.png",
+        "OCRText": "seres"
+    },
+    "1033": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036911.png",
+        "OCRText": "of"
+    },
+    "1034": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001537.png",
+        "OCRText": "step"
+    },
+    "1035": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036502.png",
+        "OCRText": "c"
+    },
+    "1036": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006443.png",
+        "OCRText": "and"
+    },
+    "1037": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031338.png",
+        "OCRText": "motoments"
+    },
+    "1038": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000798.png",
+        "OCRText": "atomic"
+    },
+    "1039": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023949.png",
+        "OCRText": "The"
+    },
+    "1040": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025944.png",
+        "OCRText": "*"
+    },
+    "1041": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014077.png",
+        "OCRText": "of"
+    },
+    "1042": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033871.png",
+        "OCRText": "malorpatole"
+    },
+    "1043": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001738.png",
+        "OCRText": "change"
+    },
+    "1044": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036800.png",
+        "OCRText": "the"
+    },
+    "1045": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025183.png",
+        "OCRText": "process"
+    },
+    "1046": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007328.png",
+        "OCRText": "alsoment"
+    },
+    "1047": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030657.png",
+        "OCRText": "fosce"
+    },
+    "1048": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033725.png",
+        "OCRText": "tet"
+    },
+    "1049": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005511.png",
+        "OCRText": "discovery"
+    },
+    "1050": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008559.png",
+        "OCRText": "andthe"
+    },
+    "1051": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011132.png",
+        "OCRText": "by"
+    },
+    "1052": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030222.png",
+        "OCRText": "sublicipat"
+    },
+    "1053": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016195.png",
+        "OCRText": "Answer"
+    },
+    "1054": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023840.png",
+        "OCRText": "22"
+    },
+    "1055": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027638.png",
+        "OCRText": "mot"
+    },
+    "1056": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036613.png",
+        "OCRText": "compiruts"
+    },
+    "1057": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031322.png",
+        "OCRText": "movements"
+    },
+    "1058": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015818.png",
+        "OCRText": "are"
+    },
+    "1059": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029714.png",
+        "OCRText": "volume"
+    },
+    "1060": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028924.png",
+        "OCRText": "litums"
+    },
+    "1061": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032458.png",
+        "OCRText": "Phylum"
+    },
+    "1062": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027764.png",
+        "OCRText": "me"
+    },
+    "1063": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003189.png",
+        "OCRText": "inde"
+    },
+    "1064": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030809.png",
+        "OCRText": "one"
+    },
+    "1065": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005352.png",
+        "OCRText": "object"
+    },
+    "1066": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026237.png",
+        "OCRText": "and"
+    },
+    "1067": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032098.png",
+        "OCRText": "a"
+    },
+    "1068": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015976.png",
+        "OCRText": "Kngms"
+    },
+    "1069": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033685.png",
+        "OCRText": "mass"
+    },
+    "1070": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000313.png",
+        "OCRText": "the"
+    },
+    "1071": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025350.png",
+        "OCRText": "or"
+    },
+    "1072": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001294.png",
+        "OCRText": "in"
+    },
+    "1073": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008162.png",
+        "OCRText": "the"
+    },
+    "1074": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018249.png",
+        "OCRText": "four"
+    },
+    "1075": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027213.png",
+        "OCRText": "their"
+    },
+    "1076": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024522.png",
+        "OCRText": "can"
+    },
+    "1077": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024029.png",
+        "OCRText": "sent"
+    },
+    "1078": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021792.png",
+        "OCRText": "photosmanon"
+    },
+    "1079": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027922.png",
+        "OCRText": "is"
+    },
+    "1080": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012386.png",
+        "OCRText": "sotopes"
+    },
+    "1081": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024842.png",
+        "OCRText": "it"
+    },
+    "1082": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002859.png",
+        "OCRText": "2"
+    },
+    "1083": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012382.png",
+        "OCRText": "the"
+    },
+    "1084": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033406.png",
+        "OCRText": "atomic"
+    },
+    "1085": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010163.png",
+        "OCRText": "solid"
+    },
+    "1086": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029394.png",
+        "OCRText": "equnating"
+    },
+    "1087": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014411.png",
+        "OCRText": "of"
+    },
+    "1088": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023095.png",
+        "OCRText": "rising"
+    },
+    "1089": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017325.png",
+        "OCRText": "It"
+    },
+    "1090": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025413.png",
+        "OCRText": "The"
+    },
+    "1091": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002255.png",
+        "OCRText": "merictems"
+    },
+    "1092": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022125.png",
+        "OCRText": "solution"
+    },
+    "1093": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026387.png",
+        "OCRText": "*)"
+    },
+    "1094": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028590.png",
+        "OCRText": "Sonic"
+    },
+    "1095": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012376.png",
+        "OCRText": "of"
+    },
+    "1096": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009813.png",
+        "OCRText": "that"
+    },
+    "1097": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011472.png",
+        "OCRText": "change"
+    },
+    "1098": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010592.png",
+        "OCRText": "3"
+    },
+    "1099": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032383.png",
+        "OCRText": "the"
+    },
+    "1100": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022639.png",
+        "OCRText": "my"
+    },
+    "1101": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013686.png",
+        "OCRText": "cleaven"
+    },
+    "1102": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013197.png",
+        "OCRText": "Frigister"
+    },
+    "1103": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012949.png",
+        "OCRText": "weare"
+    },
+    "1104": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001708.png",
+        "OCRText": "equal"
+    },
+    "1105": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028614.png",
+        "OCRText": "*"
+    },
+    "1106": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001789.png",
+        "OCRText": "of"
+    },
+    "1107": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006144.png",
+        "OCRText": "using"
+    },
+    "1108": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012731.png",
+        "OCRText": "mixture"
+    },
+    "1109": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009075.png",
+        "OCRText": "is"
+    },
+    "1110": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025891.png",
+        "OCRText": "the"
+    },
+    "1111": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021131.png",
+        "OCRText": "momentam"
+    },
+    "1112": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034983.png",
+        "OCRText": "g"
+    },
+    "1113": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017730.png",
+        "OCRText": "It"
+    },
+    "1114": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034060.png",
+        "OCRText": "*"
+    },
+    "1115": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031285.png",
+        "OCRText": "fishes"
+    },
+    "1116": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007224.png",
+        "OCRText": "questions"
+    },
+    "1117": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036381.png",
+        "OCRText": "befrien"
+    },
+    "1118": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033435.png",
+        "OCRText": "number"
+    },
+    "1119": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001900.png",
+        "OCRText": "is"
+    },
+    "1120": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030337.png",
+        "OCRText": "v)"
+    },
+    "1121": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015669.png",
+        "OCRText": "Atomigns"
+    },
+    "1122": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002750.png",
+        "OCRText": "no"
+    },
+    "1123": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018259.png",
+        "OCRText": "teeth"
+    },
+    "1124": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008864.png",
+        "OCRText": "motor"
+    },
+    "1125": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008558.png",
+        "OCRText": "Riddles"
+    },
+    "1126": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011175.png",
+        "OCRText": "came"
+    },
+    "1127": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035322.png",
+        "OCRText": "term"
+    },
+    "1128": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011994.png",
+        "OCRText": "unitises"
+    },
+    "1129": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002386.png",
+        "OCRText": "part"
+    },
+    "1130": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035973.png",
+        "OCRText": "let"
+    },
+    "1131": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023646.png",
+        "OCRText": "this"
+    },
+    "1132": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001405.png",
+        "OCRText": "ear"
+    },
+    "1133": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011427.png",
+        "OCRText": "dicot"
+    },
+    "1134": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029346.png",
+        "OCRText": "voltage"
+    },
+    "1135": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018126.png",
+        "OCRText": "around"
+    },
+    "1136": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019235.png",
+        "OCRText": "())"
+    },
+    "1137": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001692.png",
+        "OCRText": "buyent"
+    },
+    "1138": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029160.png",
+        "OCRText": "mesophyll"
+    },
+    "1139": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008610.png",
+        "OCRText": "sourciles"
+    },
+    "1140": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015086.png",
+        "OCRText": "the"
+    },
+    "1141": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034349.png",
+        "OCRText": "of"
+    },
+    "1142": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006186.png",
+        "OCRText": "accil"
+    },
+    "1143": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022614.png",
+        "OCRText": "during"
+    },
+    "1144": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024547.png",
+        "OCRText": "another"
+    },
+    "1145": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006513.png",
+        "OCRText": "The"
+    },
+    "1146": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029569.png",
+        "OCRText": "on"
+    },
+    "1147": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034125.png",
+        "OCRText": "prohy"
+    },
+    "1148": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029349.png",
+        "OCRText": "."
+    },
+    "1149": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014535.png",
+        "OCRText": "by"
+    },
+    "1150": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009920.png",
+        "OCRText": "a"
+    },
+    "1151": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019458.png",
+        "OCRText": "epederane's"
+    },
+    "1152": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030098.png",
+        "OCRText": "Pure"
+    },
+    "1153": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029834.png",
+        "OCRText": "suspension"
+    },
+    "1154": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010893.png",
+        "OCRText": "in"
+    },
+    "1155": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014013.png",
+        "OCRText": "is"
+    },
+    "1156": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023720.png",
+        "OCRText": "o"
+    },
+    "1157": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013176.png",
+        "OCRText": "earth"
+    },
+    "1158": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029891.png",
+        "OCRText": "corrent"
+    },
+    "1159": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031031.png",
+        "OCRText": "of"
+    },
+    "1160": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018719.png",
+        "OCRText": "Aswards"
+    },
+    "1161": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008495.png",
+        "OCRText": "pressure"
+    },
+    "1162": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035506.png",
+        "OCRText": "worthert"
+    },
+    "1163": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004794.png",
+        "OCRText": "water"
+    },
+    "1164": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017322.png",
+        "OCRText": "into"
+    },
+    "1165": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025057.png",
+        "OCRText": "are"
+    },
+    "1166": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/019223.png",
+        "OCRText": "the"
+    },
+    "1167": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027131.png",
+        "OCRText": "k"
+    },
+    "1168": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031208.png",
+        "OCRText": "pheases"
+    },
+    "1169": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/016531.png",
+        "OCRText": "a"
+    },
+    "1170": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003017.png",
+        "OCRText": "and"
+    },
+    "1171": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027927.png",
+        "OCRText": "like"
+    },
+    "1172": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018313.png",
+        "OCRText": "for"
+    },
+    "1173": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022934.png",
+        "OCRText": "very"
+    },
+    "1174": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031699.png",
+        "OCRText": "between"
+    },
+    "1175": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/036818.png",
+        "OCRText": "of"
+    },
+    "1176": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026653.png",
+        "OCRText": "rifpes"
+    },
+    "1177": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018347.png",
+        "OCRText": "intestipe"
+    },
+    "1178": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032129.png",
+        "OCRText": "standard"
+    },
+    "1179": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011897.png",
+        "OCRText": "MN"
+    },
+    "1180": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026938.png",
+        "OCRText": "benath"
+    },
+    "1181": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009554.png",
+        "OCRText": "two"
+    },
+    "1182": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003712.png",
+        "OCRText": "and"
+    },
+    "1183": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007039.png",
+        "OCRText": "a"
+    },
+    "1184": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010130.png",
+        "OCRText": "26"
+    },
+    "1185": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031818.png",
+        "OCRText": "g"
+    },
+    "1186": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007030.png",
+        "OCRText": "is"
+    },
+    "1187": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014801.png",
+        "OCRText": "can"
+    },
+    "1188": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005196.png",
+        "OCRText": "From"
+    },
+    "1189": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017853.png",
+        "OCRText": "polar"
+    },
+    "1190": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002245.png",
+        "OCRText": "types"
+    },
+    "1191": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021499.png",
+        "OCRText": "are"
+    },
+    "1192": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006340.png",
+        "OCRText": "ory"
+    },
+    "1193": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013033.png",
+        "OCRText": "are"
+    },
+    "1194": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031293.png",
+        "OCRText": "o"
+    },
+    "1195": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022806.png",
+        "OCRText": "the"
+    },
+    "1196": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030130.png",
+        "OCRText": "thi"
+    },
+    "1197": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011409.png",
+        "OCRText": "frievds"
+    },
+    "1198": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000530.png",
+        "OCRText": "8"
+    },
+    "1199": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033210.png",
+        "OCRText": "variday"
+    },
+    "1200": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/005229.png",
+        "OCRText": "dyne"
+    },
+    "1201": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023780.png",
+        "OCRText": "physical"
+    },
+    "1202": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029197.png",
+        "OCRText": "so"
+    },
+    "1203": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034473.png",
+        "OCRText": "likenowed"
+    },
+    "1204": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031179.png",
+        "OCRText": "1"
+    },
+    "1205": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/004112.png",
+        "OCRText": "mass"
+    },
+    "1206": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023980.png",
+        "OCRText": "*"
+    },
+    "1207": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026468.png",
+        "OCRText": "Heasument"
+    },
+    "1208": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029330.png",
+        "OCRText": "pair"
+    },
+    "1209": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017607.png",
+        "OCRText": "called"
+    },
+    "1210": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017860.png",
+        "OCRText": "in"
+    },
+    "1211": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023507.png",
+        "OCRText": "of"
+    },
+    "1212": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006451.png",
+        "OCRText": "personal"
+    },
+    "1213": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031447.png",
+        "OCRText": "Brinkals"
+    },
+    "1214": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022689.png",
+        "OCRText": "chossified"
+    },
+    "1215": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026950.png",
+        "OCRText": "t"
+    },
+    "1216": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024411.png",
+        "OCRText": "Allotropy"
+    },
+    "1217": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006266.png",
+        "OCRText": "root"
+    },
+    "1218": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011468.png",
+        "OCRText": "*"
+    },
+    "1219": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026217.png",
+        "OCRText": "are"
+    },
+    "1220": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010198.png",
+        "OCRText": "a)"
+    },
+    "1221": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011578.png",
+        "OCRText": "I)"
+    },
+    "1222": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002071.png",
+        "OCRText": "following"
+    },
+    "1223": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033804.png",
+        "OCRText": "the"
+    },
+    "1224": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027794.png",
+        "OCRText": "Answer"
+    },
+    "1225": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/026522.png",
+        "OCRText": "gatrage"
+    },
+    "1226": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000904.png",
+        "OCRText": "present"
+    },
+    "1227": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008678.png",
+        "OCRText": "the"
+    },
+    "1228": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017298.png",
+        "OCRText": "present"
+    },
+    "1229": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018041.png",
+        "OCRText": "gluids"
+    },
+    "1230": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031054.png",
+        "OCRText": "are"
+    },
+    "1231": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/020366.png",
+        "OCRText": "bracodile"
+    },
+    "1232": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006261.png",
+        "OCRText": "shaped"
+    },
+    "1233": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/024243.png",
+        "OCRText": "the"
+    },
+    "1234": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001489.png",
+        "OCRText": "the"
+    },
+    "1235": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031577.png",
+        "OCRText": "3."
+    },
+    "1236": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018711.png",
+        "OCRText": "buoodles"
+    },
+    "1237": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017503.png",
+        "OCRText": "88"
+    },
+    "1238": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/017451.png",
+        "OCRText": "help"
+    },
+    "1239": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028312.png",
+        "OCRText": "proge"
+    },
+    "1240": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031420.png",
+        "OCRText": "had"
+    },
+    "1241": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/003022.png",
+        "OCRText": "or"
+    },
+    "1242": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/009160.png",
+        "OCRText": "broken"
+    },
+    "1243": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025850.png",
+        "OCRText": "to"
+    },
+    "1244": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008295.png",
+        "OCRText": "There"
+    },
+    "1245": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/000504.png",
+        "OCRText": "atomic"
+    },
+    "1246": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013819.png",
+        "OCRText": "of"
+    },
+    "1247": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032151.png",
+        "OCRText": "total"
+    },
+    "1248": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028630.png",
+        "OCRText": "is"
+    },
+    "1249": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013311.png",
+        "OCRText": "field"
+    },
+    "1250": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/035655.png",
+        "OCRText": "18."
+    },
+    "1251": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025086.png",
+        "OCRText": "canal"
+    },
+    "1252": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025205.png",
+        "OCRText": "as"
+    },
+    "1253": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025830.png",
+        "OCRText": "by"
+    },
+    "1254": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/018722.png",
+        "OCRText": "stem"
+    },
+    "1255": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023438.png",
+        "OCRText": "length"
+    },
+    "1256": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008585.png",
+        "OCRText": "are"
+    },
+    "1257": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/021374.png",
+        "OCRText": "can"
+    },
+    "1258": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008941.png",
+        "OCRText": "franamgand"
+    },
+    "1259": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001051.png",
+        "OCRText": "system"
+    },
+    "1260": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007147.png",
+        "OCRText": "perticides"
+    },
+    "1261": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/033591.png",
+        "OCRText": "of"
+    },
+    "1262": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/034247.png",
+        "OCRText": "Serve"
+    },
+    "1263": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010425.png",
+        "OCRText": "as"
+    },
+    "1264": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013121.png",
+        "OCRText": "heptune"
+    },
+    "1265": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012658.png",
+        "OCRText": "photosysthesis"
+    },
+    "1266": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002661.png",
+        "OCRText": "offimes"
+    },
+    "1267": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/032872.png",
+        "OCRText": "of"
+    },
+    "1268": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001682.png",
+        "OCRText": "inquid"
+    },
+    "1269": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/002970.png",
+        "OCRText": "of"
+    },
+    "1270": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/011848.png",
+        "OCRText": "*"
+    },
+    "1271": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030642.png",
+        "OCRText": "unless"
+    },
+    "1272": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/028293.png",
+        "OCRText": "same"
+    },
+    "1273": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/001806.png",
+        "OCRText": "types"
+    },
+    "1274": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/022440.png",
+        "OCRText": "in"
+    },
+    "1275": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/013894.png",
+        "OCRText": "from"
+    },
+    "1276": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/006924.png",
+        "OCRText": "electric"
+    },
+    "1277": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/023186.png",
+        "OCRText": "Uttochondria"
+    },
+    "1278": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012866.png",
+        "OCRText": "Nacl"
+    },
+    "1279": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/015175.png",
+        "OCRText": "Ofic"
+    },
+    "1280": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/012480.png",
+        "OCRText": "element"
+    },
+    "1281": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/027462.png",
+        "OCRText": "the"
+    },
+    "1282": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/007699.png",
+        "OCRText": "preparety"
+    },
+    "1283": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/014459.png",
+        "OCRText": "inorbed"
+    },
+    "1284": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/030469.png",
+        "OCRText": "."
+    },
+    "1285": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/025320.png",
+        "OCRText": ":"
+    },
+    "1286": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/008979.png",
+        "OCRText": "in"
+    },
+    "1287": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/010505.png",
+        "OCRText": "Independed"
+    },
+    "1288": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/029844.png",
+        "OCRText": "the"
+    },
+    "1289": {
+        "ImageURL": "https://ai-rawdata.s3.ap-south-1.amazonaws.com/Batch7/031625.png",
+        "OCRText": "in"
+    }
+}
